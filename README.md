@@ -3,5 +3,5 @@
 A visualization of the statue outside Strand Agricultural Hall through point cloud.
 ![](img/image.jpg)
 
-##Credits
+## Credits
 The dataset is provided by GEOG572|CEOAS|Oregon State University.
